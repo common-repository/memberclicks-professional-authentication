@@ -1,0 +1,30 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.memberclicks_professional_authentication_login_button {
+    color: #ffffff;
+    background: #7A3474;
+    border-color: #7A3474;
+    width: 100%;
+    padding: 4px 12px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 2.15384615;
+    cursor: pointer;
+    border-width: 1px;
+    border-radius: 3px;
+    white-space: nowrap;
+}
+
+.memberclicks_professional_authentication_login_button:hover {
+    background: #60295C;
+    border-color: #60295C;
+}
+
+.memberclicks_professional_authentication_login_button_icon {
+    height: 10px;
+    margin-right: 6px;
+    text-align: center;
+}
